@@ -1,3 +1,12 @@
 
-# Amazing-Python
-(python script for converting text to speech and speech to text)
+<!Doctype html>
+<html>
+<head>
+<title>Speech Recognition using Python</title>
+<body>
+<h1><center>Amazing Python</center></h1>
+<h3>Text to Speech conversion</h3>
+
+</body>
+</head>
+</html>
