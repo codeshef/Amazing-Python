@@ -19,6 +19,8 @@ Here we use pyttsx but there are several other options:
 <li>IBM Watson TTS</li>
 
 <h3>Speech Recognition in Python using Google Speech API</h3>
+Speech recognition is the process of converting spoken words to text. Python supports many speech recognition engines and APIs, including Google Speech Engine, Google Cloud Speech API,
+Microsoft Bing Voice Recognition and IBM Speech to Text.
 Speech Recognition is an important feature in several applications used such as home automation, artificial intelligence, etc. This article aims to provide an introduction on how to make use of the SpeechRecognition library of Python. This is useful as it can be used on microcontrollers such as Raspberri Pis with the help of an external microphone.
 <h4>Required installations</h4>
 The following must be installed:
@@ -36,6 +38,12 @@ Use pip3 instead of pip for python3.
 Windows users can install pyaudio by executing the following command in a terminal
 
 pip install pyaudio
+
+<h4>Speech Recognition demo</h4>
+You can test the speech recognition module, with the command:
+
+python -m speech_recognition
+ 
 
 </body>
 </head>
